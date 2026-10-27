@@ -31,13 +31,6 @@ ls, cd                        # navegação pelos diretórios
 ### Conexão SSH funcionando
 O terminal do Desktop (esquerda) está conectado ao servidor (direita) via SSH.
 
-![Uploading lsb_release.png.png…]()
-
-
-### Versão do sistema (Ubuntu Server)
-
-![Versão do Ubuntu Server](images/lsb-release.png)
-
 > Endereços IP e MAC foram ocultados nas imagens por privacidade.
 
 ## Próximos passos
