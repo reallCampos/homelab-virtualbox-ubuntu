@@ -31,6 +31,10 @@ ls, cd                        # navegação pelos diretórios
 ### Conexão SSH funcionando
 O terminal do Desktop (esquerda) está conectado ao servidor (direita) via SSH.
 
+![SSH funcionando](ssh-funcionando.png)
+
+![Versão do Ubuntu Server](lsb-release.png)
+
 > Endereços IP e MAC foram ocultados nas imagens por privacidade.
 
 ## Próximos passos
