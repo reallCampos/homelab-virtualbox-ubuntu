@@ -33,7 +33,7 @@ O terminal do Desktop (esquerda) está conectado ao servidor (direita) via SSH.
 
 ![SSH funcionando](ssh-funcionando.png)
 
-![Versão do Ubuntu Server](lsb-release.png)
+![Versão do Ubuntu Server](lsb_release.png)
 
 > Endereços IP e MAC foram ocultados nas imagens por privacidade.
 
